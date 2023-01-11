@@ -2,3 +2,4 @@ rootProject.name = 'sample'
 
 include "boot"
 include "module"
+include "library"
